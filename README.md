@@ -31,12 +31,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DATAdotPDF/DATAdotPDF/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">TECH STACK:</h2>
 
 ###

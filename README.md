@@ -1,5 +1,5 @@
 <!-- Banner ou imagem de destaque (opcional) -->
-![Banner para Linkedin Tecnologia em Preto](https://github.com/user-attachments/assets/77ea1ac0-b04b-4b04-bb05-b3bff4f831b7)
+![Banner para Git Tecnologia em Preto](https://github.com/user-attachments/assets/9d9d5e12-8067-4796-b5bd-d136fc3cbd1c)
 
 # 👋 About Me
 ---

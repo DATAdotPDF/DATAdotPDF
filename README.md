@@ -1,7 +1,5 @@
 <!-- Banner ou imagem de destaque (opcional) -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6f0329a7-82fd-45c1-93c6-b644990fc255" alt="luffy-gear-5" width="400"/>
-</p>
+![Banner para Linkedin Tecnologia em Preto](https://github.com/user-attachments/assets/77ea1ac0-b04b-4b04-bb05-b3bff4f831b7)
 
 # 👋 About Me
 
@@ -56,3 +54,6 @@ Markdown, SQL Server, MySQL, MongoDB, Notion, HTML, PowerShell, Arduino, Google 
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f0329a7-82fd-45c1-93c6-b644990fc255" alt="luffy-gear-5" width="400"/>
+</p>

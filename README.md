@@ -2,11 +2,15 @@
 ![Banner para Linkedin Tecnologia em Preto](https://github.com/user-attachments/assets/77ea1ac0-b04b-4b04-bb05-b3bff4f831b7)
 
 # 👋 About Me
-
+---
 Me chamo **Pedro Ferreira** — profissional com forte viés analítico, em transição da gestão de projetos criativos para **Engenharia de Dados**, **Python** e **Business Intelligence**.
 
-🎬 Após mais de 10 anos atuando com **produção audiovisual**, hoje aplico tecnologia e dados para criar **pipelines inteligentes**, **dashboards estratégicos** e **fluxos automatizados** que transformam informação em impacto.
+Após mais de 10 anos atuando com **produção audiovisual**, hoje aplico tecnologia e dados para criar **pipelines inteligentes**, **dashboards estratégicos** e **fluxos automatizados** que transformam informação em impacto.
 
+---
+My name is **Pedro Ferreira** — a professional with a strong analytical mindset, transitioning from creative project management to **Data Engineering**, **Python**, and **Business Intelligence**.
+
+After more than 10 years working in **audiovisual production**, I now apply technology and data to create **smart pipelines**, **strategic dashboards**, and **automated workflows** that turn information into impact.
 > “From storytelling to data storytelling.” 📊✨
 
 ---
@@ -21,7 +25,7 @@ Me chamo **Pedro Ferreira** — profissional com forte viés analítico, em tran
 
 # 🧠 Tech Stack
 
-**Principais ferramentas que utilizo:**
+**Principais ferramentas que utilizo/most used techs:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -32,7 +36,7 @@ Me chamo **Pedro Ferreira** — profissional com forte viés analítico, em tran
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Outros conhecimentos:**  
+**Outros conhecimentos/others:**  
 Markdown, SQL Server, MySQL, MongoDB, Notion, HTML, PowerShell, Arduino, Google Cloud, MLFlow, GitHub Actions, entre outros.
 
 ---

@@ -5,7 +5,7 @@
 <h1 align="center">Pedro D. Ferreira</h1>
 
 <p align="center">
-  Junior Data Engineer · Data Platform · Analytics · Automation · Cybersecurity
+  Data Engineer & Cybersecurity Student | Red Team & Offensive Security | Python · SQL · Automation · Data Quality
 </p>
 
 <p align="center">

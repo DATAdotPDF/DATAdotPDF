@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1584" height="396" alt="Pedro D. Ferreira — Data, Automation and Cybersecurity" src="https://github.com/user-attachments/assets/59523a39-80c1-4c4c-8bcb-231ca79dd003" />
-</p>
-
 <h1 align="center">Pedro D. Ferreira</h1>
 
 <p align="center">

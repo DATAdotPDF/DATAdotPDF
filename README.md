@@ -71,19 +71,18 @@ Current course topics:
 - Cisco Packet Tracer labs
 - Attack and defense simulations
 
-### Ferramentas e práticas estudadas
+### Tools and practices studied
 
-- **Cisco Packet Tracer:** criação e validação de topologias com três filiais, WAN serial, OSPF área 0, DHCP, DNS, HTTP, VLANs, ACLs, SSH e redes sem fio.
-- **Redes e protocolos:** IPv4, sub-redes, roteamento, WAN, VLAN, DHCP, DNS, HTTP e testes com ping e traceroute.
-- **Wireshark:** captura e leitura de tráfego em laboratório, com filtros e análise de ARP, DNS, TCP e HTTP.
-- **CLI:** configuração Cisco IOS e diagnóstico no terminal com comandos como `show`, `ping` e `traceroute`, além de comandos Windows e Linux.
-- **Bash:** navegação, arquivos, permissões, filtros de texto, logs e automação de tarefas de laboratório.
+- **Cisco Packet Tracer:** design and validation of three-branch topologies, serial WAN, OSPF area 0, DHCP, DNS, HTTP, VLANs, ACLs, SSH, and wireless networks.
+- **Networks and protocols:** IPv4, subnetting, routing, WAN, VLANs, DHCP, DNS, HTTP, and testing with ping and traceroute.
+- **Wireshark:** packet capture and traffic analysis in controlled labs, using filters for ARP, DNS, TCP, and HTTP.
+- **CLI:** Cisco IOS configuration and terminal diagnostics with commands such as `show`, `ping`, and `traceroute`, plus Windows and Linux commands.
+- **Bash:** navigation, files, permissions, text filters, logs, and lab task automation.
 
-O trabalho prático está documentado no repositório [SENAC-CISCO](https://github.com/DATAdotPDF/SENAC-CISCO), com uma [branch de LAN-WAN e segurança](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-lan-wan), uma [branch de rede da Copa Norte](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-copa-norte) e os [documentos do curso](https://github.com/DATAdotPDF/SENAC-CISCO/tree/senac-cisco-ciberseguranca/documentos).
+The practical work is documented in the [SENAC-CISCO repository](https://github.com/DATAdotPDF/SENAC-CISCO), with a [LAN-WAN and security branch](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-lan-wan), a [Copa Norte network branch](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-copa-norte), and the [course documents](https://github.com/DATAdotPDF/SENAC-CISCO/tree/senac-cisco-ciberseguranca/documentos).
+### Study roadmap
 
-### Roadmap de estudo
-
-My broader learning roadmap adds:
+My broader learning roadmap includes:
 
 - Systems and scripting: Linux, Windows, Bash, PowerShell, and Python
 - Network analysis: TCP/IP, subnetting, DNS, TLS, Nmap, Wireshark, and tcpdump

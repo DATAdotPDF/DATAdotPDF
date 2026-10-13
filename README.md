@@ -71,6 +71,18 @@ Current course topics:
 - Cisco Packet Tracer labs
 - Attack and defense simulations
 
+### Ferramentas e práticas estudadas
+
+- **Cisco Packet Tracer:** criação e validação de topologias com três filiais, WAN serial, OSPF área 0, DHCP, DNS, HTTP, VLANs, ACLs, SSH e redes sem fio.
+- **Redes e protocolos:** IPv4, sub-redes, roteamento, WAN, VLAN, DHCP, DNS, HTTP e testes com ping e traceroute.
+- **Wireshark:** captura e leitura de tráfego em laboratório, com filtros e análise de ARP, DNS, TCP e HTTP.
+- **CLI:** configuração Cisco IOS e diagnóstico no terminal com comandos como \`show\`, \`ping\` e \`traceroute\`, além de comandos Windows e Linux.
+- **Bash:** navegação, arquivos, permissões, filtros de texto, logs e automação de tarefas de laboratório.
+
+O trabalho prático está documentado no repositório [SENAC-CISCO](https://github.com/DATAdotPDF/SENAC-CISCO), com uma [branch de LAN-WAN e segurança](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-lan-wan), uma [branch de rede da Copa Norte](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-copa-norte) e os [documentos do curso](https://github.com/DATAdotPDF/SENAC-CISCO/tree/senac-cisco-ciberseguranca/documentos).
+
+### Roadmap de estudo
+
 My broader learning roadmap adds:
 
 - Systems and scripting: Linux, Windows, Bash, PowerShell, and Python

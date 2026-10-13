@@ -80,6 +80,7 @@ Current course topics:
 - **Bash:** navigation, files, permissions, text filters, logs, and lab task automation.
 
 The practical work is documented in the [SENAC-CISCO repository](https://github.com/DATAdotPDF/SENAC-CISCO), with a [LAN-WAN and security branch](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-lan-wan), a [Copa Norte network branch](https://github.com/DATAdotPDF/SENAC-CISCO/tree/projeto-copa-norte), and the [course documents](https://github.com/DATAdotPDF/SENAC-CISCO/tree/senac-cisco-ciberseguranca/documentos).
+
 ### Study roadmap
 
 My broader learning roadmap includes:

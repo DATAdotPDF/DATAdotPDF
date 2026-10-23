@@ -10,6 +10,16 @@
   <a href="mailto:data.pedutraferreira@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <b>Everything I publish here is free and open source, and always will be.</b><br>
+  But if something helped you and you feel like buying me a coffee (or a Monster) so I can spend<br>
+  more nights studying and building cool things for the community, that makes me very happy &lt;3
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dotpdf"><img src="https://img.buymeacoffee.com/button-api/?text=Doe%20um%20caf%C3%A9zin!&emoji=&slug=dotpdf&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee: dotpdf" height="40"></a><br>
+  <sub>or Pix (Brazil, Itaú), random key: <code>a6a35680-c2cd-4e0e-ab3d-8c601cc159c4</code></sub>
+</p>
+
 ## About
 
 I build data products, automated workflows, and reliable reporting that connect technical work with business needs.
